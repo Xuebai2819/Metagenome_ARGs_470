@@ -1,0 +1,16 @@
+Taxonomy,SumAbun,level
+PhylumPhylumOthers,0.032943363,Phylum
+PhylumBacteroidota,0.037651565,Phylum
+PhylumActinobacteria,0.070951864,Phylum
+PhylumProteobacteria,0.095093049,Phylum
+PhylumFirmicutes,0.763360159,Phylum
+FamilyFamilyOthers,0.330883415,Family
+FamilyEnterobacteriaceae,0.035551207,Family
+FamilyStaphylococcaceae,0.041137888,Family
+FamilyEnterococcaceae,0.083080131,Family
+FamilyLactobacillaceae,0.509347359,Family
+GenusGenusOthers,0.450661781,Genus
+GenusEnterococcus,0.08291604,Genus
+GenusLimosilactobacillus,0.084000317,Genus
+GenusLigilactobacillus,0.126338902,Genus
+GenusLactobacillus,0.25608296,Genus

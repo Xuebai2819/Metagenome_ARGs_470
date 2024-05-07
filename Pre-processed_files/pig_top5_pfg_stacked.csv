@@ -1,0 +1,16 @@
+Taxonomy,SumAbun,level
+PhylumPhylumOthers,0.082626319,Phylum
+PhylumEuryarchaeota,0.030840102,Phylum
+PhylumActinobacteria,0.043698206,Phylum
+PhylumBacteroidota,0.054921746,Phylum
+PhylumFirmicutes,0.787913627,Phylum
+FamilyFamilyOthers,0.437652332,Family
+Familyunclassified,0.083332193,Family
+FamilyStreptococcaceae,0.130513281,Family
+FamilyClostridiaceae,0.158244166,Family
+FamilyLactobacillaceae,0.190258028,Family
+GenusGenusOthers,0.519838287,Genus
+Genusunclassified,0.081252998,Genus
+GenusLactobacillus,0.120169217,Genus
+GenusStreptococcus,0.128820335,Genus
+GenusClostridium,0.149919163,Genus

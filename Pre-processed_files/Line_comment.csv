@@ -1,0 +1,55 @@
+Aro_name,Drug_Class,Resistance_Mechanism
+rpoB2,Multidrug,antibiotic target alteration/replacement
+parY,Aminocoumarin,antibiotic target alteration
+macB,Tetracycline,antibiotic efflux
+bcrA,Fosfomycin,antibiotic efflux
+efrA,Multidrug,antibiotic efflux
+arlR,Multidrug,antibiotic efflux
+tetW,Multidrug,antibiotic target protection
+mtrA,Multidrug,antibiotic efflux
+rpoB ,MLS,antibiotic target alteration/replacement
+TaeA,Fluoroquinolone,antibiotic efflux
+otr(A),Tetracycline,antibiotic target protection
+tetO,Tetracycline,antibiotic target protection
+efrB,MLS,antibiotic efflux
+ugd,Glycopeptide,antibiotic target alteration
+vanRF,Multidrug,antibiotic target alteration
+mupA,MLS,antibiotic target alteration
+mupB,Multidrug,antibiotic target alteration
+vanRM,Peptide,antibiotic target alteration
+novA,Tetracycline,antibiotic efflux
+vanRI,Fluoroquinolone,antibiotic target alteration
+mdtG,Multidrug,antibiotic efflux
+lsaA,Tetracycline,antibiotic target protection
+lsaB,Phenicol,antibiotic target protection
+LlmA,Glycopeptide,antibiotic target alteration
+patA,Multidrug,antibiotic efflux
+tet(W/N/W),Tetracycline,antibiotic target protection
+tetM,Pleuromutilin,antibiotic target protection
+sul4,Glycopeptide,antibiotic target replacement
+kdpE,Multidrug,antibiotic efflux
+ErmB,Multidrug,antibiotic target alteration
+msbA,Multidrug,antibiotic efflux
+tet(L),Multidrug,antibiotic efflux
+bacA,Fosfomycin,antibiotic target alteration
+tet(44),Mupirocin,antibiotic target protection
+tetB(P),MLS,antibiotic target protection
+LmrS,Multidrug,antibiotic efflux
+lmrD,Tetracycline,antibiotic efflux
+lmrB,Peptide,antibiotic efflux
+patB,Multidrug,antibiotic efflux
+tetA(58),Tetracycline,antibiotic efflux
+Afab_ACT_CHL,MLS,antibiotic inactivation
+vatB,MLS,antibiotic inactivation
+ileS,Tetracycline,antibiotic target alteration
+mel,Tetracycline,antibiotic target protection
+tet(40),Glycopeptide,antibiotic efflux
+tetA,Glycopeptide,antibiotic efflux
+vanRG,MLS,antibiotic target alteration
+tetA(P),Tetracycline,antibiotic efflux
+tetQ,Tetracycline,antibiotic target protection
+lnuC,Diaminopyrimidine,antibiotic inactivation
+optrA,Aminoglycoside,antibiotic target protection
+mprF,Rifamycin,antibiotic target alteration
+tet32,Beta-lactam,antibiotic target protection
+ANT(6)-Ib,Glycopeptide,antibiotic inactivation
